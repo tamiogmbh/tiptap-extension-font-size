@@ -1,7 +1,7 @@
 {
   "name": "@tiptap/extension-font-size",
   "description": "text font-size extension for tiptap",
-  "version": "2.0.0-beta.209",
+  "version": "2.0.0-beta.209.1",
   "homepage": "https://tiptap.dev",
   "keywords": [
     "tiptap",
